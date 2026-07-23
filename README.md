@@ -93,7 +93,4 @@ sales-etl-pipeline/
 └── README.md
 ```
 
-## 📬 Contact
-- **Portfolio:** [رابط Google Sites]
-- **LinkedIn:** [رابط LinkedIn]
 - **GitHub:** [رابط GitHub]
